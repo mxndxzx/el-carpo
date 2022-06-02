@@ -1,6 +1,5 @@
 # Wireframes & prototypes folder
 resources/
 
-# Node.js modules & Json's
+# Node.js modules
 node_modules/
-*.json
